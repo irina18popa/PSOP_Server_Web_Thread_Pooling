@@ -1,3 +1,6 @@
+//nu merge bine
+
+
 #include <arpa/inet.h>
 #include <errno.h>
 #include <stdio.h>
